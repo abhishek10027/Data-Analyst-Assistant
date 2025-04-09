@@ -30,7 +30,7 @@ The assistant uses the first few rows, column names, and overall metadata to gen
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository:
 
